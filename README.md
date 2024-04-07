@@ -6,8 +6,10 @@ Analyzed and visualized Adidas US sales data using Excel functions, formulas, an
 Generated a comprehensive report and presentation to summarize the findings and impact on customer retention and revenue.
 
 ## [Mobiles data analysis using SQL](https://github.com/VidhyabharathirajC/SQL-Project)
-Used popular SQL tool - MySQl to analyse, to clean, to query and to sort mobile's data to find and extract the relevant information
-using SQL queries
+I extracted relevant information from a CSV file containing mobile data. I meticulously cleaned, reduced, transformed, and enriched
+the dataset.
+My primary focus was on crafting precise SQL queries, utilizing operators like `LIKE` and `WHERE`. These efforts culminated in
+valuable insights and findings. Overall, my project showcases my proficiency in data manipulation and SQL skills.
 
 ## [Telcom Company Churn Analysis using Power BI](https://github.com/VidhyabharathirajC/Power-BI-Project)
 Used Power BI to explore and visualize customer churn data from a telcom company, Identified the main factors
