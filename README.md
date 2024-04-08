@@ -8,7 +8,7 @@ In this comprehensive project, I harnessed the power of Excel, a widely-used dat
 **Worksheet 1:** Presents the original sales data, serving as the foundational dataset for the analysis.\
 **Worksheet 2:** Enhances the original data with Excel’s advanced features and formulas, extracting key metrics such as the list of retailers, product types, operating profits, total units sold, and sales methods.\
 **Worksheet 3:** Features pivot tables that crystallize data patterns, facilitating a deeper understanding of the sales figures.\
-**Worksheet 4:** Deploys dashboards that vividly illustrate critical insights, including retailer-based unit sales, profitability by retailer, the most lucrative regions, city-wise unit sales, and product share contributions.\
+**Worksheet 4:** Deploys dashboards that vividly illustrate critical insights, including retailer-based unit sales, profitability by retailer, the most lucrative regions, city-wise unit sales, and product share contributions.
 
 This project not only showcases the versatility of Excel in managing and analyzing data but also underscores the strategic use of visual tools to uncover actionable business insights.
 
@@ -24,7 +24,7 @@ Identifying highly-rated mobiles with substantial rating counts.\
 Locating the most expensive Apple mobiles.\
 Discovering mobiles with terabyte storage in black color.\
 Searching for mobiles with dual front cameras.\
-Filtering mobiles within the price range of ₹10,000 to ₹20,000.\
+Filtering mobiles within the price range of ₹10,000 to ₹20,000.
 
 This project demonstrated the robust capabilities of SQL in data cleaning, transformation, and analytical querying, leading to actionable insights.
 
@@ -38,7 +38,7 @@ In this project, I utilized Power BI, a leading data visualization tool, to tran
 **Geographic Distribution:** Employed map visuals to pinpoint customer locations.\
 **Customer Journey:** Created funnel visuals to represent the customer lifecycle, from acquisition to churn.\
 **Contract Analysis:** Analyzed contract types with a donut chart, highlighting the most prevalent contracts.\
-**Churn Analysis:** My favorite visual, the tree map, provided a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.\
+**Churn Analysis:** My favorite visual, the tree map, provided a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
 
 This project not only showcased the analytical capabilities of Power BI but also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions.
 
@@ -53,7 +53,7 @@ A bar chart showcasing the ‘Top 10 countries by population’.\
 Subplots comparing ‘Population change trends’ across various countries.\
 A line plot for the ‘Top 10 countries by land area’.\
 A pie chart illustrating the ‘World share percentage based on land area’ of the top 10 countries.\
-A scatter plot correlating ‘Fertility rate and population’ figures.\
+A scatter plot correlating ‘Fertility rate and population’ figures.
 
 This streamlined approach enabled efficient analysis and provided clear insights into demographic trends.
 
