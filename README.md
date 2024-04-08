@@ -1,4 +1,4 @@
-# My-Project-Portfolio
+# VIDHYA BHARATHI RAJ'S PORTFOLIO
 This portfolio contains 4 projects, Each project based on each skills that being used for Analyzing data for Data Analyst and some other similar data based fields.
 
 ## [Adidas US Sales Analysis using Excel](https://github.com/VidhyabharathirajC/Excel-Project)
