@@ -44,10 +44,7 @@ In this project, I utilized Power BI, a leading data visualization tool, to tran
 Commenced with importing a comprehensive CSV dataset. Implemented card visuals for displaying key metrics such as customer count, phone service subscriptions, and total revenue.
 ### Demographic and Geographic Insights:
 Utilized clustered bar charts for demographic analysis, including customer demographics, preferred payment methods, and internet service types.
-Employed map visuals to illustrate the geographic distribution of customers.
-### Customer Lifecycle and Contract Analysis:
-Created funnel visuals to depict the customer journey from acquisition to churn.
-Analyzed contract types with a donut chart to highlight prevalent contracts.
+Employed map visuals to illustrate the geographic distribution of customers. Created funnel visuals to depict the customer journey from acquisition to churn. Analyzed contract types with a donut chart to highlight prevalent contracts.
 ### In-Depth Churn Analysis:
 Developed a tree map visual to provide a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
 
