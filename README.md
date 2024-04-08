@@ -7,6 +7,9 @@ In this comprehensive project, I harnessed the power of Excel, a widely-used dat
 
 ### Worksheet 1:
 Presents the original sales data, serving as the foundational dataset for the analysis.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20015411.png)
+
+
 ### Worksheet 2:
 Enhances the original data with Excel’s advanced **features and formulas**, extracting key metrics such as the list of retailers, product types, operating profits, total units sold, and sales methods.
 ### Worksheet 3:
