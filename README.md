@@ -19,7 +19,7 @@ In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile 
 **Data Definition:** Utilized DROP statements to eliminate extraneous records, streamlining the dataset for clarity and simplicity.\
 **Data Transformation:** Renamed columns for more intuitive access and manipulation through SQL queries.\
 **Data Manipulation:** Performed data cleansing to eradicate anomalies such as unwanted symbols and words, converting them into standardized data types. Additionally, introduced new columns to facilitate a more straightforward data comprehension.\
-**Data Filtering and Sorting:** Applied SQL clauses like SELECT, WHERE, ORDER BY, and LIKE to extract vital information, enabling analyses such as:\
+**Data Filtering and Sorting:** Applied SQL clauses like `SELECT`, `WHERE`, `ORDER BY`, and `LIKE` to extract vital information, enabling analyses such as:\
 Identifying highly-rated mobiles with substantial rating counts.\
 Locating the most expensive Apple mobiles.\
 Discovering mobiles with terabyte storage in black color.\
@@ -33,12 +33,12 @@ This project demonstrated the robust capabilities of SQL in data cleaning, trans
 In this project, I utilized Power BI, a leading data visualization tool, to transform a CSV dataset into a compelling dashboard that provides clear insights. The project involved:
 
 **Data Integration:** Imported a comprehensive dataset in CSV format to begin the analysis.\
-**Insightful Metrics:** Implemented card visuals to display key metrics such as customer count, phone service subscriptions, and total revenue.\
-**Demographic Analysis:** Used clustered bar charts to delve into customer demographics, preferred payment methods, and internet service types, identifying major churn categories for service improvement.\
-**Geographic Distribution:** Employed map visuals to pinpoint customer locations.\
-**Customer Journey:** Created funnel visuals to represent the customer lifecycle, from acquisition to churn.\
-**Contract Analysis:** Analyzed contract types with a donut chart, highlighting the most prevalent contracts.\
-**Churn Analysis:** My favorite visual, the tree map, provided a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
+**Insightful Metrics:** Implemented `card` visuals to display key metrics such as customer count, phone service subscriptions, and total revenue.\
+**Demographic Analysis:** Used clustered `bar charts` to delve into customer demographics, preferred payment methods, and internet service types, identifying major churn categories for service improvement.\
+**Geographic Distribution:** Employed `map` visuals to pinpoint customer locations.\
+**Customer Journey:** Created `funnel` visuals to represent the customer lifecycle, from acquisition to churn.\
+**Contract Analysis:** Analyzed contract types with a `donut chart`, highlighting the most prevalent contracts.\
+**Churn Analysis:** My favorite visual, the `tree map`, provided a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
 
 This project not only showcased the analytical capabilities of Power BI but also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions.
 
@@ -49,11 +49,11 @@ In this project, I utilized the Jupyter Notebook, a popular data science tool, t
 **Data Scraping:** Employed the Beautiful Soup library to extract data from a specified URL.\
 **Data Manipulation:** Used the Pandas library to clean and structure the data for analysis.\
 **Data Visualization:** Created insightful visualizations using Matplotlib, including:\
-A bar chart showcasing the ‘Top 10 countries by population’.\
-Subplots comparing ‘Population change trends’ across various countries.\
-A line plot for the ‘Top 10 countries by land area’.\
-A pie chart illustrating the ‘World share percentage based on land area’ of the top 10 countries.\
-A scatter plot correlating ‘Fertility rate and population’ figures.
+A `bar chart` showcasing the ‘Top 10 countries by population’.\
+`Subplots` comparing ‘Population change trends’ across various countries.\
+A `line plot` for the ‘Top 10 countries by land area’.\
+A `pie chart` illustrating the ‘World share percentage based on land area’ of the top 10 countries.\
+A `scatter plot` correlating ‘Fertility rate and population’ figures.
 
 This streamlined approach enabled efficient analysis and provided clear insights into demographic trends.
 
