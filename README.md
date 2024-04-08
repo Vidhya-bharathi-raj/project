@@ -14,7 +14,7 @@ Features pivot tables that crystallize data patterns, facilitating a deeper unde
 ### Worksheet 4:
 Deploys dashboards that vividly illustrate critical insights, including retailer-based unit sales, profitability by retailer, the most lucrative regions, city-wise unit sales, and product share contributions.
 
-This project not only showcases the versatility of Excel in managing and analyzing data but also underscores the strategic use of visual tools to uncover actionable business insights.
+"This project not only showcases the versatility of Excel in managing and analyzing data but also underscores the strategic use of visual tools to uncover actionable business insights."
 
 ## [Mobiles Data Analysis using SQL](https://github.com/VidhyabharathirajC/SQL-Project)
 
@@ -34,7 +34,7 @@ Discovering mobiles with terabyte storage in black color.\
 Searching for mobiles with dual front cameras.\
 Filtering mobiles within the price range of ₹10,000 to ₹20,000.
 
-This project demonstrated the robust capabilities of SQL in data cleaning, transformation, and analytical querying, leading to actionable insights.
+"This project demonstrated the robust capabilities of SQL in data cleaning, transformation, and analytical querying, leading to actionable insights."
 
 ## [Telcom Company Churn Analysis using Power BI](https://github.com/VidhyabharathirajC/Power-BI-Project)
 
@@ -48,7 +48,7 @@ Employed map visuals to illustrate the geographic distribution of customers. Cre
 ### In-Depth Churn Analysis:
 Developed a tree map visual to provide a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
 
-This project showcased the analytical capabilities of Power BI and also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions.
+"This project showcased the analytical capabilities of Power BI and also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions."
 
 ## [World Population Data Analysis using Python](https://github.com/VidhyabharathirajC/Python-Project)
 
@@ -66,6 +66,6 @@ A line plot for the ‘Top 10 countries by land area’.\
 A pie chart illustrating the ‘World share percentage based on land area’ of the top 10 countries.\
 A scatter plot correlating ‘Fertility rate and population’ figures.
 
-This streamlined approach enabled efficient analysis and provided clear insights into demographic trends.
+“This project highlighted the powerful capabilities of Jupyter Notebook in data scraping, manipulation, and visualization, culminating in actionable insights into demographic patterns.”
 
 
