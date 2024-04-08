@@ -53,9 +53,9 @@ Developed a **tree map** visual to provide a clear view of the primary reasons f
 In this project, I utilized the Jupyter Notebook, a popular data science tool, to conduct an analysis. The workflow included:
 
 ### Data Scraping:
-Employed the Beautiful Soup library to extract data from a specified URL.
+Employed the **Beautiful Soup** library to extract data from a specified URL.
 ### Data Manipulation:
-Used the Pandas library to clean and structure the data for analysis.
+Used the **Pandas** library to clean and structure the data for analysis.
 ### Data Visualization:
 Created insightful visualizations using Matplotlib, including:
 - A **bar chart** showcasing the ‘Top 10 countries by population’.
