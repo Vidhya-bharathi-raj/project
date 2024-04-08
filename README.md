@@ -21,11 +21,11 @@ This project not only showcases the versatility of Excel in managing and analyzi
 In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile data sourced from a public community. The project encompassed several stages:
 
 ### Data Definition:
-Utilized `DROP` statements to eliminate extraneous records, streamlining the dataset for clarity and simplicity.\
+Utilized `DROP` statements to eliminate extraneous records, streamlining the dataset for clarity and simplicity.
 ### Data Transformation:
-Renamed columns for more intuitive access and manipulation through SQL queries.\
+Renamed columns for more intuitive access and manipulation through SQL queries.
 ### Data Manipulation:
-Performed data cleansing to eradicate anomalies such as unwanted symbols and words, converting them into standardized data types. Additionally, introduced new columns to facilitate a more straightforward data comprehension.\
+Performed data cleansing to eradicate anomalies such as unwanted symbols and words, converting them into standardized data types. Additionally, introduced new columns to facilitate a more straightforward data comprehension.
 ### Data Filtering and Sorting:
 Applied SQL clauses like `SELECT`, `WHERE`, `ORDER BY`, and `LIKE` to extract vital information, enabling analyses such as:\
 Identifying highly-rated mobiles with substantial rating counts.\
