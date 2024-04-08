@@ -14,7 +14,7 @@ This project not only showcases the versatility of Excel in managing and analyzi
 
 ## [Mobiles Data Analysis using SQL](https://github.com/VidhyabharathirajC/SQL-Project)
 
-In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile data sourced from a public community. The project encompassed several stages:\
+In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile data sourced from a public community. The project encompassed several stages:
 
 **Data Definition:** Utilized DROP statements to eliminate extraneous records, streamlining the dataset for clarity and simplicity.\
 **Data Transformation:** Renamed columns for more intuitive access and manipulation through SQL queries.\
@@ -30,7 +30,7 @@ This project demonstrated the robust capabilities of SQL in data cleaning, trans
 
 ## [Telcom Company Churn Analysis using Power BI](https://github.com/VidhyabharathirajC/Power-BI-Project)
 
-In this project, I utilized Power BI, a leading data visualization tool, to transform a CSV dataset into a compelling dashboard that provides clear insights. The project involved:\
+In this project, I utilized Power BI, a leading data visualization tool, to transform a CSV dataset into a compelling dashboard that provides clear insights. The project involved:
 
 **Data Integration:** Imported a comprehensive dataset in CSV format to begin the analysis.\
 **Insightful Metrics:** Implemented card visuals to display key metrics such as customer count, phone service subscriptions, and total revenue.\
@@ -44,7 +44,8 @@ This project not only showcased the analytical capabilities of Power BI but also
 
 ## [World Population Data Analysis using Python](https://github.com/VidhyabharathirajC/Python-Project)
 
-In this project, I utilized the Jupyter Notebook, a popular data science tool, to conduct an analysis. The workflow included:\
+In this project, I utilized the Jupyter Notebook, a popular data science tool, to conduct an analysis. The workflow included:
+
 **Data Scraping:** Employed the Beautiful Soup library to extract data from a specified URL.\
 **Data Manipulation:** Used the Pandas library to clean and structure the data for analysis.\
 **Data Visualization:** Created insightful visualizations using Matplotlib, including:\
