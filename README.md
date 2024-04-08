@@ -3,7 +3,9 @@ This portfolio contains 4 projects, Each project based on each skills that being
 
 ## [Adidas US Sales Analysis using Excel](https://github.com/VidhyabharathirajC/Excel-Project)
 
-In this comprehensive project, I harnessed the power of Excel, a widely-used data analysis tool, to dissect and interpret Adidas US Sales data for 2020. The project is structured into four distinct worksheets within a single workbook:
+In this comprehensive project, I harnessed the power of Excel, a widely-used data analysis tool, to dissect and interpret Adidas US Sales data for 2020.
+
+The project is structured into four distinct worksheets within a single workbook:
 
 **Worksheet 1:** Presents the original sales data, serving as the foundational dataset for the analysis.
 **Worksheet 2:** Enhances the original data with Excel’s advanced features and formulas, extracting key metrics such as the list of retailers, product types, operating profits, total units sold, and sales methods.
