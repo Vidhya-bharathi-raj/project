@@ -40,20 +40,14 @@ This project demonstrated the robust capabilities of SQL in data cleaning, trans
 
 In this project, I utilized Power BI, a leading data visualization tool, to transform a CSV dataset into a compelling dashboard that provides clear insights. The project involved:
 
-### Data Integration:
-Imported a comprehensive dataset in CSV format to begin the analysis.\
-### Insightful Metrics:
-Implemented card visuals to display key metrics such as customer count, phone service subscriptions, and total revenue.\
-### Demographic Analysis:
-Used clustered `bar charts` to delve into customer demographics, preferred payment methods, and internet service types, identifying major churn categories for service improvement.\
-### Geographic Distribution:
-Employed map visuals to pinpoint customer locations.\
-### Customer Journey:
-Created `funnel` visuals to represent the customer lifecycle, from acquisition to churn.\
-### Contract Analysis:
-Analyzed contract types with a `donut chart`, highlighting the most prevalent contracts.\
-### Churn Analysis:
-My favorite visual, the `tree map`, provided a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
+### Data Integration and Visualization:
+Commenced with importing a comprehensive CSV dataset. Implemented card visuals for displaying key metrics such as customer count, phone service subscriptions, and total revenue.
+### Demographic and Geographic Insights:
+Utilized clustered bar charts for demographic analysis, including customer demographics, preferred payment methods, and internet service types. Employed map visuals to illustrate the geographic distribution of customers.
+### Customer Lifecycle and Contract Analysis:
+Created funnel visuals to depict the customer journey from acquisition to churn. Analyzed contract types with a donut chart to highlight prevalent contracts.
+### In-Depth Churn Analysis:
+Developed a tree map visual to provide a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
 
 This project not only showcased the analytical capabilities of Power BI but also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions.
 
