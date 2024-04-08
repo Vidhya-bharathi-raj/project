@@ -26,8 +26,10 @@ In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile 
 
 ### Data Definition and Data Transformation:
 Utilized **DROP** statements to eliminate extraneous records, streamlining the dataset for clarity and simplicity. Renamed columns for more intuitive access and manipulation through SQL queries.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20022726.png)
 ### Data Manipulation:
 Performed data cleansing to eradicate anomalies such as unwanted symbols and words, converting them into standardized data types. Additionally, introduced new columns to facilitate a more straightforward data comprehension.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20022741.png)
 ### Data Filtering and Sorting:
 Applied SQL clauses like **SELECT**, **WHERE**, **ORDER BY**, and **LIKE** to extract vital information, enabling analyses such as:
 - Identifying highly-rated mobiles with substantial rating counts.
@@ -35,6 +37,7 @@ Applied SQL clauses like **SELECT**, **WHERE**, **ORDER BY**, and **LIKE** to ex
 - Discovering mobiles with terabyte storage in black color.
 - Searching for mobiles with dual front cameras.
 - Filtering mobiles within the price range of ₹10,000 to ₹20,000.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20022814.png)
 
 "This project demonstrated the robust capabilities of SQL in data cleaning, transformation, and analytical querying, leading to actionable insights."
 
@@ -49,6 +52,7 @@ Utilized **clustered bar charts** for demographic analysis, including customer d
 Employed **map** visuals to illustrate the geographic distribution of customers. Created **funnel** visuals to depict the customer journey from acquisition to churn. Analyzed contract types with a **donut chart** to highlight prevalent contracts.
 ### In-Depth Churn Analysis:
 Developed a **tree map** visual to provide a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-07%20142953.png)
 
 "This project showcased the analytical capabilities of Power BI and also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions."
 
@@ -58,15 +62,22 @@ In this project, I utilized the Jupyter Notebook, a popular data science tool, t
 
 ### Data Scraping:
 Employed the **Beautiful Soup** library to extract data from a specified URL.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20023500.png)
 ### Data Manipulation:
 Used the **Pandas** library to clean and structure the data for analysis.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20023530.png)
 ### Data Visualization:
 Created insightful visualizations using Matplotlib, including:
 - A **bar chart** showcasing the ‘Top 10 countries by population’.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20023829.png)
 - **Subplots** comparing ‘Population change trends’ across various countries.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20023857.png)
 - A **line plot** for the ‘Top 10 countries by land area’.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20023925.png)
 - A **pie chart** illustrating the ‘World share percentage based on land area’ of the top 10 countries.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20024000.png)
 - A **scatter plot** correlating ‘Fertility rate and population’ figures.
+![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20024024.png)
 
 “This project highlighted the powerful capabilities of Jupyter Notebook in data scraping, manipulation, and visualization, culminating in actionable insights into demographic patterns.”
 
