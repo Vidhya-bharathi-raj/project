@@ -28,11 +28,11 @@ Renamed columns for more intuitive access and manipulation through SQL queries.
 Performed data cleansing to eradicate anomalies such as unwanted symbols and words, converting them into standardized data types. Additionally, introduced new columns to facilitate a more straightforward data comprehension.
 ### Data Filtering and Sorting:
 Applied SQL clauses like `SELECT`, `WHERE`, `ORDER BY`, and `LIKE` to extract vital information, enabling analyses such as:\
-Identifying highly-rated mobiles with substantial rating counts.\
-Locating the most expensive Apple mobiles.\
-Discovering mobiles with terabyte storage in black color.\
-Searching for mobiles with dual front cameras.\
-Filtering mobiles within the price range of ₹10,000 to ₹20,000.
+- Identifying highly-rated mobiles with substantial rating counts.\
+- Locating the most expensive Apple mobiles.\
+- Discovering mobiles with terabyte storage in black color.\
+- Searching for mobiles with dual front cameras.\
+- Filtering mobiles within the price range of ₹10,000 to ₹20,000.
 
 "This project demonstrated the robust capabilities of SQL in data cleaning, transformation, and analytical querying, leading to actionable insights."
 
@@ -60,11 +60,11 @@ Employed the Beautiful Soup library to extract data from a specified URL.
 Used the Pandas library to clean and structure the data for analysis.
 ### Data Visualization:
 Created insightful visualizations using Matplotlib, including:
-A bar chart showcasing the ‘Top 10 countries by population’.\
-Subplots comparing ‘Population change trends’ across various countries.\
-A line plot for the ‘Top 10 countries by land area’.\
-A pie chart illustrating the ‘World share percentage based on land area’ of the top 10 countries.\
-A scatter plot correlating ‘Fertility rate and population’ figures.
+- A **bar chart** showcasing the ‘Top 10 countries by population’.\
+- **Subplots** comparing ‘Population change trends’ across various countries.\
+- A **line plot** for the ‘Top 10 countries by land area’.\
+- A **pie chart** illustrating the ‘World share percentage based on land area’ of the top 10 countries.\
+- A **scatter plot** correlating ‘Fertility rate and population’ figures.
 
 “This project highlighted the powerful capabilities of Jupyter Notebook in data scraping, manipulation, and visualization, culminating in actionable insights into demographic patterns.”
 
