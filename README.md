@@ -40,14 +40,13 @@ This project demonstrated the robust capabilities of SQL in data cleaning, trans
 
 In this project, I utilized Power BI, a leading data visualization tool, to transform a CSV dataset into a compelling dashboard that provides clear insights. The project involved:
 
-### Data Integration and Visualization:
-Commenced with importing a comprehensive CSV dataset. Implemented card visuals for displaying key metrics such as customer count, phone service subscriptions, and total revenue.
-### Demographic and Geographic Insights:
-Utilized clustered bar charts for demographic analysis, including customer demographics, preferred payment methods, and internet service types. Employed map visuals to illustrate the geographic distribution of customers.
-### Customer Lifecycle and Contract Analysis:
-Created funnel visuals to depict the customer journey from acquisition to churn. Analyzed contract types with a donut chart to highlight prevalent contracts.
-### In-Depth Churn Analysis:
-Developed a tree map visual to provide a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
+### Data Integration and Metrics:
+Imported a CSV dataset and used card visuals for key metrics like customer count, phone service subscriptions, and total revenue.
+### Customer Insights:
+Analyzed demographics with bar charts, mapped geographic distribution, and employed funnel visuals for the customer journey. Contract types were examined using a donut chart.
+### Churn Analysis:
+Utilized a tree map to highlight the primary reasons for customer churn, providing valuable insights into areas for service improvement.
+
 
 This project showcased the analytical capabilities of Power BI and also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions.
 
