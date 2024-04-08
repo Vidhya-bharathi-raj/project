@@ -6,11 +6,11 @@ This portfolio contains 4 projects, Each project based on each skills that being
 In this comprehensive project, I harnessed the power of Excel, a widely-used data analysis tool, to dissect and interpret Adidas US Sales data for 2020. The project is structured into four distinct worksheets within a single workbook:
 
 ### Worksheet 1:
-Presents the original sales data, serving as the foundational dataset for the analysis.\
+Presents the original sales data, serving as the foundational dataset for the analysis.
 ### Worksheet 2:
-Enhances the original data with Excel’s advanced features and formulas, extracting key metrics such as the list of retailers, product types, operating profits, total units sold, and sales methods.\
+Enhances the original data with Excel’s advanced features and formulas, extracting key metrics such as the list of retailers, product types, operating profits, total units sold, and sales methods.
 ### Worksheet 3:
-Features pivot tables that crystallize data patterns, facilitating a deeper understanding of the sales figures.\
+Features pivot tables that crystallize data patterns, facilitating a deeper understanding of the sales figures.
 ### Worksheet 4:
 Deploys dashboards that vividly illustrate critical insights, including retailer-based unit sales, profitability by retailer, the most lucrative regions, city-wise unit sales, and product share contributions.
 
@@ -49,18 +49,18 @@ Created funnel visuals to depict the customer journey from acquisition to churn.
 ### In-Depth Churn Analysis:
 Developed a tree map visual to provide a clear view of the primary reasons for customer churn, offering insights into customer needs and service gaps.
 
-This project not only showcased the analytical capabilities of Power BI but also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions.
+This project showcased the analytical capabilities of Power BI and also emphasized the importance of visual storytelling in understanding customer behavior and driving business decisions.
 
 ## [World Population Data Analysis using Python](https://github.com/VidhyabharathirajC/Python-Project)
 
 In this project, I utilized the Jupyter Notebook, a popular data science tool, to conduct an analysis. The workflow included:
 
 ### Data Scraping:
-Employed the Beautiful Soup library to extract data from a specified URL.\
+Employed the Beautiful Soup library to extract data from a specified URL.
 ### Data Manipulation:
-Used the Pandas library to clean and structure the data for analysis.\
+Used the Pandas library to clean and structure the data for analysis.
 ### Data Visualization:
-Created insightful visualizations using Matplotlib, including:\
+Created insightful visualizations using Matplotlib, including:
 A bar chart showcasing the ‘Top 10 countries by population’.\
 Subplots comparing ‘Population change trends’ across various countries.\
 A line plot for the ‘Top 10 countries by land area’.\
