@@ -82,3 +82,4 @@ Created insightful visualizations using Matplotlib, including:
 “This project highlighted the powerful capabilities of Jupyter Notebook in data scraping, manipulation, and visualization, culminating in actionable insights into demographic patterns.”  
 
 
+vknhknswsnownjonwovnvownjnwc
