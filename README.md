@@ -79,6 +79,6 @@ Created insightful visualizations using Matplotlib, including:
 - A **scatter plot** correlating ‘Fertility rate and population’ figures.
 ![](https://github.com/VidhyabharathirajC/Project-Images/blob/main/Screenshot%202024-04-09%20024024.png)
 
-“This project highlighted the powerful capabilities of Jupyter Notebook in data scraping, manipulation, and visualization, culminating in actionable insights into demographic patterns.”
+“This project highlighted the powerful capabilities of Jupyter Notebook in data scraping, manipulation, and visualization, culminating in actionable insights into demographic patterns.”  
 
 
