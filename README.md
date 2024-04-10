@@ -1,5 +1,5 @@
-# [Vidhya Bharathi Raj's Portfolio](https://github.com/VidhyabharathirajC)
-This portfolio contains 4 projects, Each project based on each skills that being used for Analyzing data for Data Analyst and some other similar data based fields.
+# [Vidhya Bharathi Raj's Profile](https://github.com/VidhyabharathirajC)
+This portfolio contains four projects, each based on the skills used for analyzing data in the field of Data Analysis and other similar data-centric professions.
 
 ## [Adidas US Sales Analysis using Excel](https://github.com/VidhyabharathirajC/Excel-Project)
 
