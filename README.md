@@ -81,4 +81,3 @@ Created insightful visualizations using Matplotlib, including:
 ![](https://github.com/VidhyabharathirajC/project-images/blob/main/Screenshot%202024-04-09%20024024.jpg)
 
 “This project highlighted the powerful capabilities of Jupyter Notebook in data scraping, manipulation, and visualization, culminating in actionable insights into demographic patterns.”
-
